@@ -1,0 +1,6 @@
+1 : Game Set up
+2 : Create Ship / Player
+3 : Move Ship
+4 : Create Asteroids
+5 : Move Asteroids
+6 : 

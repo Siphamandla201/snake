@@ -1,0 +1,12 @@
+1 : Game Set up = Done :)
+2 : Create Ship / Player = Done :)
+3 : Move Ship
+4 : Create Asteroids
+5 : Move Asteroids
+6 : Handle Asteroid Collisions w/ Ship
+7 : Game Over
+7 : Handle Collisions w/ other Asteroids
+8 : Shoot Lasers 
+9 : Hit Asteroids
+10 : Handle Scores
+11 : Next Level ? 
